@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leopolldo  
 
 - 🔭 Trabalho como Desenvolvedor de Jogos 
-- 🔭 Tradutor de linguagens de arquivos em pdf
+- 🔭 Tradutor de linguagens de arquivos em textos
 - 🌱 Estudando Unreal Engine 4/5
 - 😄 Pronouns: ele/dele
 
